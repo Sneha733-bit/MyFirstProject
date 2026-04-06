@@ -1,0 +1,25 @@
+.sidebar{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    top: 55px;
+    background-color: white;
+    width: 72px;
+}
+.side{
+    height: 30px;
+    width: 30px;
+    justify-content: space-between;
+   
+    display:flex;
+    justify-content: space-around;
+    margin-left: 20px;
+    
+
+}
+.p{
+    margin-left: 23px;
+    margin-bottom: 30px;
+    font-size: 10px;
+    justify-content: center;
+}
